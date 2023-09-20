@@ -1,2 +1,2 @@
 # Rinha-Interpreter
-Just Startng.
+Just Starting
